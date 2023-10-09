@@ -11,7 +11,7 @@ h2 {
 }	
 	
 .coolheadkuva {
-	border: 5px solid black;
+	border: 5px solid black; 
 }	
 	
 .olarinkuva {
@@ -36,18 +36,22 @@ h2 {
 	
 #otsikko {
 	background-color: black; color: white; text-align: center; font-size: 30px;
+	border-radius: 5px;
 }	
 
 #salama {
 	background-color: pink;
+	border-radius: 5px;
 }
 
 #coolhead {
 	background-color: green;
+	border-radius: 5px;
 }
 
 #olarinpanimo {
 	background-color: grey;
+	border-radius: 5px;
 }
 
 .footer {
