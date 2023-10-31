@@ -246,22 +246,26 @@ aside {
 	main, aside { width: 100%; }
 }
 
-li {
-	float: left;
-	list-style: none;
+ul {
+	display: flex;
+	flex-wrap: wrap;
+	list-style-type: none;
 }
+
 
 figure {
 	position: relative;
-	margin-right: 5px;
+}
+
+figcaption {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: rgba(0, 0, 0, 0.5); 
+	color: white; 
+	width: 100%;
 }
 
 h3 {
-	position: absolute;
-	top: 0px;
-	background-color: rgba(0, 0, 0, 0.5); 
-	color: white; 
-	margin: 0;
-    padding: 0;
-	width: 100%;
+	margin: 5px 10px;
 }
