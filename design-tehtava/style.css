@@ -85,7 +85,7 @@ header h1 {
 	display: flex;
 	flex-wrap: flex;
 	justify-content: center;
-	margin:10px;
+	margin: 35.5px;
 	padding: 10px;
 	
 	
@@ -204,7 +204,8 @@ main {
 	ja sitten artikkeleihin (ks. alla) esim. ,
 	jolloin artikkelit asettuvat vierekkäin.*/
 	
-	display: flex; flex-wrap:wrap; 
+	display: flex; 
+	flex-wrap:wrap; 
 	justify-content: center;
 	
 	
