@@ -106,9 +106,8 @@ header h1 {
 	niin näyttää tyylikkäämmältä */
 
 	/*Voi muokata täällä myös background-, color-arvoja.*/
-	padding: 10px;
-	margin: 10px;
-	border-radius: 20px;
+	
+	
 	
 	
 
@@ -129,7 +128,10 @@ a:visited {
 /*Link in menu item*/
 #main-menu a { 
 	background: #5B2333;
-	text-decoration: none; /*poistaa linkin alleviivauksen*/
+	text-decoration: none;
+	/*poistaa linkin alleviivauksen*/
+	padding: 10px;
+	margin: 10px;
 
 	/*Voi muokata täällä myös background-, color- 
 	font-size- ja font-family-arvoja.*/
