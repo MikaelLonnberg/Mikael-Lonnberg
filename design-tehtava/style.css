@@ -272,7 +272,7 @@ article p {
 		min-width: 150px;
 		float: left; 
 	*/
-	border-radius: 20px;
+	border-radius: 50%;
 	box-shadow: 0px 2px 10px rgba(0,0,0,50%); 
 }
 
