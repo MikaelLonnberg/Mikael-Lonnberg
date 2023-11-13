@@ -85,7 +85,7 @@ header h1 {
 	display: flex;
 	flex-wrap: flex;
 	justify-content: center;
-	margin: 35.5px;
+	margin: 	35.5px;
 	padding: 10px;
 	
 	
@@ -207,6 +207,7 @@ main {
 	display: flex; 
 	flex-wrap:wrap; 
 	justify-content: center;
+	margin: 35.5px;
 	
 	
 }
@@ -280,7 +281,7 @@ footer {
 	/*Kannattaa laittaa footeriin vähintään padding 
 	ja ehkä eri taustaväri, jotta se erottuu hiukan.*/
 	padding: 10px;
-	margin:  10px;
+	margin:  35.5px;
 	text-align: center;
 	background: #5B2333;	
 	color: #C5D7E7;
