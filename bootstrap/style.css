@@ -1,0 +1,66 @@
+body {
+	text-align: center;
+	padding: 1rem;
+	color: black;
+	
+	
+}
+article {
+	margin: 10px;
+	padding: 10px;
+	
+}
+
+ 
+ nav {
+	
+	margin: 10px;
+	padding: 10px;
+ }
+ 
+ #head {
+	background: #CFD0CF;
+	border-radius: 20px;
+ }
+ 
+ #navbar {
+	background: #CFD0CF;
+	border-radius: 5px;
+ }
+
+#quote-header {
+	background: #CFD0CF;
+}
+#posi {
+	background: #29C74E;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+#nega {
+	background: #C72E29;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+#aside {
+	background: #CFD0CF;
+	border-radius: 20px;
+	margin: 10px;
+	padding: 10px;
+}
+
+
+
+
+
+			padding: 1rem;
+			background-color: #33b5e5;
+			border: 2px solid #000;
+			color: #000;
+			text-align: center;
+			
+			 background-image: url("bootstrap-icons.png");
+			 
+			 Vihreä
+			 background: #0F4226;
