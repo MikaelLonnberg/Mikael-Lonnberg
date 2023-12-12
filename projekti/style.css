@@ -183,6 +183,10 @@ article {
 	width: 100%;
 }
 
+#karttaotsikko {
+	margin-bottom: 35px;
+}
+
 footer {
 	width: 100%;
 	text-align: right;
