@@ -1,0 +1,52 @@
+.custom-color-1 {
+	background-color: #1D3461;
+	color: #ffffff;
+}
+
+.custom-color-2 {
+	background-color: #434140;
+	color: #ffffff;
+}
+
+.custom-color-3 {
+	background-color: #E6DDD7;
+	color: 000000;
+}
+
+body {
+	background-image: url("bubbles.webp");
+	min-height: 500px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+
+nav {
+	font-family: 'Cantarell', sans-serif;
+}
+
+h1 {
+	font-family: 'Fjalla One', sans-serif;
+}
+
+h2 {
+	font-family: 'Fjalla One', sans-serif;
+}
+
+h5 {
+	font-family: 'Fjalla One', sans-serif;
+}
+
+p {
+	font-family: 'Cantarell', sans-serif;
+}
+button a {
+	font-family: 'Fjalla One', sans-serif;
+}
+
+.card a {
+	font-family: 'Fjalla One', sans-serif;
+}
